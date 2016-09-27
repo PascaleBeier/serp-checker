@@ -1,12 +1,12 @@
-# vue-serpchecker
+# serp-checker
 
-> Vue.js Search Engine Result Page Checker
+> Search Engine Result Page Checker
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm i
 
 # serve with hot reload at localhost:8080
 npm run dev
@@ -15,4 +15,14 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Demo
+
+You can browse a Demo on [https://serp-checker-83b31.firebaseapp.com/](https://serp-checker-83b31.firebaseapp.com/)
+
+## Changelog
+
+See [CHANGELOG](CHANGELOG).
+
+## License
+
+See [LICENSE](LICENSE).
