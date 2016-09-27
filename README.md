@@ -21,7 +21,7 @@ You can browse a Demo on [https://serp-checker-83b31.firebaseapp.com/](https://s
 
 ## Changelog
 
-See [CHANGELOG](CHANGELOG).
+See [CHANGELOG](CHANGELOG.md).
 
 ## License
 
