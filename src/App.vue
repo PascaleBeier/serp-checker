@@ -31,7 +31,7 @@
         <div class="form-group row">
           <label for="title" class="col-sm-2 col-form-label col-form-label-lg">Title</label>
           <div class="col-sm-10">
-            <input class="form-control form-control-lg" v-model="title" id="title" placeholder="A Catchy Title" aria-describedby="titleHelpBlock">
+            <input type="text" class="form-control form-control-lg" v-model="title" id="title" placeholder="A Catchy Title" aria-describedby="titleHelpBlock">
             <progress class="progress"
                       :class="{
                       'progress-success': title.length >= 35 && title.length <= 70,
@@ -49,7 +49,7 @@
         <div class="form-group row">
           <label class="col-sm-2 col-form-label col-form-label-lg" for="url">URL</label>
           <div class="col-sm-10">
-            <input class="form-control form-control-lg" v-model="url" id="url" placeholder="http://example.org/" aria-describedby="urlHelpBlock">
+            <input type="url" class="form-control form-control-lg" v-model="url" id="url" placeholder="http://example.org/" aria-describedby="urlHelpBlock">
             <p id="urlHelpBlock" class="form-text text-muted">
               Your Website URL as shown in the Search Engine Result Snippet.
             </p>

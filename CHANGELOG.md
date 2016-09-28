@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.4](../../tree/1.0.4) - 2016-09-28
+
+### Added
+
+- Input Types
+
+### Removed
+
+- Syntax Highlighting
+
 ## [1.0.3](../../tree/1.0.3) - 2016-09-28
 
 ### Added
