@@ -1,3 +1,7 @@
+$color-title: #1a0dab;
+$color-url: #006621;
+$color-description: #545454;
+
 .jumbotron {
   border-radius: 0;
 }
@@ -11,13 +15,36 @@
   h3 {
     margin-bottom: 0;
     a {
-      color: #1a0dab;
+      color: $color-title;
     }
   }
   span {
-    color: #006621;
+    color: $color-url;
   }
   p {
-    color: #545454;
+    color: $color-description;
   }
+}
+
+footer {
+  background: #d0d0d0;
+  padding: 4rem 0;
+  margin-top: 4rem;
+}
+
+input#title {
+  color: $color-title;
+}
+
+input#url {
+  color: $color-url;
+}
+
+input#description {
+  color: $color-description;
+}
+
+h2.display-4 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
 }

@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.3](../../tree/1.0.3) - 2016-09-28
+
+### Added
+
+- Syntax Highlighting
+- Footer
+- Headings
+
 ## [1.0.2](../../tree/1.0.2) - 2016-09-27
 
 ### Added

@@ -33,6 +33,13 @@ module.exports = {
         })
       },
       {
+        test: /\.css$/,
+        loader: ExtractTextPlugin.extract({
+          fallbackLoader: 'style',
+          loader: 'css!postcss'
+        })
+      },
+      {
         test: /\.(png|jpg|gif|svg)$/,
         loader: 'file',
         query: {
