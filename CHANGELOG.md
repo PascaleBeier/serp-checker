@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.0.5](../../tree/1.0.5) - 2016-10-01
+
+## Changed
+
+- Updated Vue to 2.0.1
+
 ## [1.0.4](../../tree/1.0.4) - 2016-09-28
 
 ### Added
